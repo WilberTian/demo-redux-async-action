@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/WilberTian/demo-redux-async-action.git"
   },
-  "scripts": {
-    "example": "babel-node"
-  },
   "author": "WilberTian",
   "license": "MIT",
   "dependencies": {
